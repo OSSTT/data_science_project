@@ -1,0 +1,6 @@
+.venv
+venv/
+__pycache__
+programm1/datenset/
+connection_data.txt
+
