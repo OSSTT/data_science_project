@@ -13,7 +13,7 @@
 5. Um das Programm 2 auszuführen, werden folgende Daten benötigt:
     - **Connection String** für Microsoft Azure Blob Storage (`functions.py`)
     - **Containername** von Microsoft Azure Blob Storage (`functions.py`)
-    - **API-Key** für OpenWeatherMap (`predictor.py`)
+    - **API-Key** für OpenWeatherMap (`app.py`)
     
     Falls Sie diese Daten nicht selbst bereitstellen können, kontaktieren Sie bitte einen der Entwickler, thayath1@students.zhaw.ch oder ferrefab@students.zhaw.ch.
 6. Um das Programm zu starten, führen Sie `app.py` aus.

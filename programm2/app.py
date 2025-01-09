@@ -8,7 +8,7 @@ import os
 app = Flask(__name__)
 
 # Konfiguration
-API_KEY = 'HERE YOUR KEY'
+API_KEY = 'HERE YOUR OPENWEATHER KEY'
 MODEL_PATH = 'critical_growth_model.pkl'
 OUTPUT_FOLDER = 'output_csv'
 
